@@ -1,0 +1,20 @@
+{
+  "name": "express-first-backend",
+  "version": "1.0.0",
+  "description": "first express backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "first",
+    "backend"
+  ],
+  "author": "Nabeel Sadiq",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  }
+}
